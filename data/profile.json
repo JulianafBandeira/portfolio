@@ -20,6 +20,14 @@
       {
         "name": "git",
         "logo": "https://github.com/JulianafBandeira/portfolio/blob/main/data/imgs/git.png"
+      },
+      {
+        "name": "python",
+        "logo": "https://github.com/JulianafBandeira/portfolio/blob/main/data/imgs/python.png"
+      },
+      {
+        "name": "java",
+        "logo": "https://github.com/JulianafBandeira/portfolio/blob/main/data/imgs/git.png"
       }
     ],
     "softSkills": [
@@ -44,6 +52,12 @@
       "url": "https://github.com/JulianafBandeira/Ping-Pong",
       "github": true
     }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Organizadora/Sacolão da dona Nazaré",
+      "period": "2021 - 2022",
+      "description": " Empacotamento e Organização de produtos"
+    }
   ]
-  
 }
